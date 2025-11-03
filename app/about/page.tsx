@@ -23,7 +23,7 @@ export default function AboutPage() {
         </div>
 
         <div className="grid md:grid-cols-[300px,1fr] gap-12 items-start">
-          <div className="w-full max-w-[300px] space-y-4">
+          <div className="w-full max-w-[300px]">
             <Image
               src="/images/gunner_headshot.jpg"
               alt="Gunner Lee"
@@ -32,12 +32,13 @@ export default function AboutPage() {
               className="w-full h-auto rounded-lg"
               priority
             />
-            
+          </div>
+
+          <div className="space-y-6">
             <div className="space-y-2 text-gray-600">
               <p><a href="mailto:gunner.m.lee@gmail.com" className="hover:text-primary">gunner.m.lee@gmail.com</a></p>
               <p><a href="tel:+15108286946" className="hover:text-primary">(510) 828-6946</a></p>
             </div>
-          </div>
 
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
