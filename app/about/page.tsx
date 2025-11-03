@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
+import { IoMail, IoCall } from 'react-icons/io5';
 
 export const metadata: Metadata = {
   title: 'About - Gunner Lee',
@@ -38,8 +39,18 @@ export default function AboutPage() {
 
             {/* Contact Info - Now below the image */}
             <div className="space-y-2 text-gray-600">
-              <p><a href="mailto:gunner.m.lee@gmail.com" className="hover:text-primary">gunner.m.lee@gmail.com</a></p>
-              <p><a href="tel:+15108286946" className="hover:text-primary">(510) 828-6946</a></p>
+              <p>
+                <a href="mailto:gunner.m.lee@gmail.com" className="hover:text-primary flex items-center gap-2">
+                  <IoMail className="w-4 h-4" />
+                  gunner.m.lee@gmail.com
+                </a>
+              </p>
+              <p>
+                <a href="tel:+15108286946" className="hover:text-primary flex items-center gap-2">
+                  <IoCall className="w-4 h-4" />
+                  (510) 828-6946
+                </a>
+              </p>
             </div>
           </div>
 
