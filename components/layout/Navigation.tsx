@@ -1,5 +1,6 @@
 'use client';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
 import { Menu, X, Instagram } from 'lucide-react';
@@ -15,14 +16,18 @@ export default function Navigation() {
   ];
 
   return (
-    <nav className="bg-white border-b border-gray-100">
+    <nav className="bg-white border-b border-gray-100 pt-2">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-primary rounded flex items-center justify-center">
-              <span className="text-white font-bold">✋</span>
-            </div>
-            <span className="text-xl font-bold text-primary">gunner lee</span>
+            <Image
+              src="/images/gunner_logo.png"
+              alt="Gunner Lee"
+              width={180}
+              height={60}
+              className="h-14 w-auto object-contain transition-all duration-300 hover:grayscale" 
+              priority
+            />
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">
