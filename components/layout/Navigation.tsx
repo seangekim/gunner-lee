@@ -37,7 +37,7 @@ export default function Navigation() {
                 {link.label}
               </Link>
             ))}
-            <a href="https://instagram.com/gunner.lee" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/assortm3nt/" target="_blank" rel="noopener noreferrer">
               <Instagram size={20} className="text-gray-600 hover:text-primary" />
             </a>
           </div>
