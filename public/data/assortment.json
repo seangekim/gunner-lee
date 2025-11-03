@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "id": "relief-carving",
+      "src": "/images/assortment/assortment_tag1.gif",
+      "alt": "Relief carving work in progress",
+      "caption": "Hand carved relief pattern",
+      "category": "carving",
+      "order": 1,
+      "featured": false
+    },
+    {
+      "id": "collage-art",
+      "src": "/images/assortment/assortment_tag2.gif",
+      "alt": "Mixed media collage with vintage imagery",
+      "caption": "Vintage collage composition",
+      "category": "mixed-media",
+      "order": 2,
+      "featured": false
+    },
+    {
+      "id": "camera-candle",
+      "src": "/images/assortment/assortment_tag3.gif",
+      "alt": "Vintage camera shaped candle",
+      "caption": "Handmade camera candle with leather strap",
+      "category": "candles",
+      "order": 3,
+      "featured": true
+    },
+    {
+      "id": "leather-wallet",
+      "src": "/images/assortment/assortment_tag4.gif",
+      "alt": "Handstitched leather wallet",
+      "caption": "Hand-stitched leather goods",
+      "category": "leatherwork",
+      "order": 4,
+      "featured": false
+    },
+    {
+      "id": "concrete-tiles",
+      "src": "/images/assortment/assortment_tag5.gif",
+      "alt": "Geometric concrete tiles",
+      "caption": "Custom concrete tile work",
+      "category": "fabrication",
+      "order": 5,
+      "featured": false
+    },
+    {
+      "id": "laser-pattern",
+      "src": "/images/assortment/assortment_tag6.gif",
+      "alt": "Laser cut geometric pattern",
+      "caption": "Precision laser cut designs",
+      "category": "fabrication",
+      "order": 6,
+      "featured": false
+    },
+    {
+      "id": "wooden-object",
+      "src": "/images/assortment/assortment_tag7.gif",
+      "alt": "Handcrafted wooden piece",
+      "caption": "Hand-turned wood object",
+      "category": "woodworking",
+      "order": 7,
+      "featured": false
+    },
+    {
+      "id": "craft-process",
+      "src": "/images/assortment/assortment_tag8.gif",
+      "alt": "Crafting process",
+      "caption": "Work in progress",
+      "category": "process",
+      "order": 8,
+      "featured": false
+    },
+    {
+      "id": "vintage-tv",
+      "src": "/images/assortment/assortment_tag9.gif",
+      "alt": "Modified vintage television",
+      "caption": "Retrofitted vintage electronics",
+      "category": "electronics",
+      "order": 9,
+      "featured": false
+    },
+    {
+      "id": "nature-photo",
+      "src": "/images/assortment/assortment_tag10.gif",
+      "alt": "Nature photography",
+      "caption": "Outdoor photography",
+      "category": "photography",
+      "order": 10,
+      "featured": false
+    },
+    {
+      "id": "camera-repair",
+      "src": "/images/assortment/assortment_tag11.gif",
+      "alt": "Vintage camera repair",
+      "caption": "Restored vintage video camera",
+      "category": "electronics",
+      "order": 11,
+      "featured": true
+    },
+    {
+      "id": "blue-device",
+      "src": "/images/assortment/assortment_tag12.gif",
+      "alt": "Custom electronic device",
+      "caption": "Custom built electronics",
+      "category": "electronics",
+      "order": 12,
+      "featured": false
+    },
+    {
+      "id": "sketch-work",
+      "src": "/images/assortment/assortment_tag13.gif",
+      "alt": "Design sketches",
+      "caption": "Concept sketches",
+      "category": "drawing",
+      "order": 13,
+      "featured": false
+    },
+    {
+      "id": "ceramic-piece",
+      "src": "/images/assortment/assortment_tag14.gif",
+      "alt": "Ceramic work",
+      "caption": "Hand-formed ceramics",
+      "category": "ceramics",
+      "order": 14,
+      "featured": false
+    },
+    {
+      "id": "metalwork",
+      "src": "/images/assortment/assortment_tag15.gif",
+      "alt": "Metal fabrication",
+      "caption": "Custom metal work",
+      "category": "fabrication",
+      "order": 15,
+      "featured": false
+    },
+    {
+      "id": "light-object",
+      "src": "/images/assortment/assortment_tag16.gif",
+      "alt": "Illuminated object",
+      "caption": "Light exploration",
+      "category": "lighting",
+      "order": 16,
+      "featured": false
+    },
+    {
+      "id": "workshop-view",
+      "src": "/images/assortment/assortment_tag17.gif",
+      "alt": "Workshop setup",
+      "caption": "Studio workspace",
+      "category": "process",
+      "order": 17,
+      "featured": false
+    },
+    {
+      "id": "material-study",
+      "src": "/images/assortment/assortment_tag18.gif",
+      "alt": "Material exploration",
+      "caption": "Material studies",
+      "category": "experiment",
+      "order": 18,
+      "featured": false
+    }
+  ],
+  "metadata": {
+    "title": "assortm3nt",
+    "description": "A bunch of things I make with my hands.",
+    "lastUpdated": "2024-11-03",
+    "displayMode": "grid"
+  }
+}

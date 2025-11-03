@@ -67,6 +67,9 @@ export default function AboutPage() {
               the studio hammering, drilling, cutting, building, or breaking something, I'm out 
               backpacking, climbing, playing basketball, or repairing vintage video cameras.
             </p>
+            <p>
+              Currently Researching & Designing @ Simplehuman.
+            </p>
           </div>
         </div>
       </div>

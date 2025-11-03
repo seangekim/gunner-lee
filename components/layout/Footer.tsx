@@ -9,7 +9,6 @@ export default function Footer() {
           <div>
             <Link href="/" className="text-xl font-bold text-primary">gunner lee</Link>
             <p className="mt-4 text-sm text-gray-600">
-              Industrial designer focused on creating physical experiences.
             </p>
           </div>
           <div>
